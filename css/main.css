@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+
+.clr {
+    clear: both;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+}
+ 
+p{
+    font-family: "Alegreya Sans";
+    font-size: 18px;
+    padding: 10px 20px;
+    color: #686868;
+
+}
+
+h2,h3 {
+    font-family: "Alegreya Sans";
+    font-size: 30px;
+    padding: 10px 20px;
+    color: #686868;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.home {
+    height: 700px;
+    background-image: url(../img/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat ;
+    overflow: hidden;
+}
+.home .text p{
+    font-size: larger;
+}
+.home .text { 
+
+    text-align: center;
+    margin-top: 200px;
+    color: #fff  !important;
+}
+.home .text h1 {
+
+    font-size: 76px;
+}
+.home .text .btn {
+   padding: 15px 30px;
+   background-color: #8e7754;
+   border: 1px solid #fff;
+   margin-top: 20px;
+   color: #fff;
+   font-size: 20px;
+}
+._2nd .container {
+    padding: 85px 0px;
+}
+._2nd .container  .cont{
+padding: 20px;
+width: 50%;
+float: left;
+}
+._2nd .container  .cont p {
+    font-family: "Alegreya Sans";
+    font-size: 17px;
+    padding: 20px;
+    padding-top: 15px;
+}
+._2nd .container  .cont h2{
+    font-family: "Alegreya";
+    font-size: 1.5rem;
+    color: #303030;
+    line-height: 1.38em;
+    margin-bottom: 25px;
+    font-weight: 400;
+}
+
+._3rd .container {
+    padding: 75px 0px;
+}
+._3rd .container  .cont{
+width: 50%;
+float: left;
+padding: auto;
+}
+._3rd .container .cont h2,p{
+    font-family: "Alegreya Sans";
+    font-size: 15px;
+    padding: 10px 20px;
+    color: #686868;
+}
+._3rd .container  .cont h2{
+    font-size: 23px;
+    color: #373a3c;
+}
+/* ._4th{
+    background-color: #303030;
+}
+.container ._4th  {
+    padding: 75px 0px;
+    text-align: center;
+     background-color: #f8f8f8;
+ }
+
+.container  ._4th  .contentt{
+    padding: 20px;
+    width: 33.33%;
+    float: left;
+}
+.container ._4th  .contentt h2{
+    font-size: 23px;
+    color: #373a3c;
+}
+.container ._4th   .contennt h2{
+    font-size: 23px;
+    color: #373a3c;
+} */
+._5th .container  {
+    padding: 75px 0px;
+}
+._5th  .container .cont ,._5th  .container .contt{
+    width: 50%;
+     float: left;  
+     padding: 20px;
+    
+}
+._5th .container  .cont .cont{
+    width: 100%;
+}
+
+._5th .container  .cont .cont .list{
+    list-style: none;
+    
+}
+._5th .container  .cont .contt{
+    padding: 15px ;
+    font-family: "Alegreya Sans";
+    font-size: 15px;
+    padding: 10px 20px;
+    color: #686868;
+
+
+}
+._5th .container  .cont .contt h2{
+    padding-left: 17px;
+    padding-bottom: 10px;
+}
+._5th .container  .cont .cont .list li{
+    padding: 15px ;
+    padding: 15px ;
+    font-family: "Alegreya Sans";
+    font-size: 15px;
+    padding: 10px 20px;
+    color: #686868;
+}
+.home .text .btn:hover {
+    background-color: #6b5c41;
+    color: #fff;
+}
+
+
+/* .bgcolor{
+    background-color: #f8f8f8;
+} */
+.fourth{
+    background-color: #f8f8f8;
+}
+.fourth .container{
+    padding: 75px 0px;
+
+}
+.fourth .container .contentt{
+    text-align: center;
+}
+.fourth .container .content .item{
+    text-align: center;
+    width: 33.333%;
+    float: left;
+    padding: 20px;
+
+}
+._3rd .container .cont .item{
+    padding-bottom: 50px;
+}
+/* .bgcolor{
+    background-color: #f8f8f8;
+} */
+/* ._5th{
+    background-color: #f8f8f8;
+} */
